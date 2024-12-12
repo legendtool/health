@@ -1,0 +1,25 @@
+{
+  "title": "Datenschutzerklärung",
+  "intro": "Vielen Dank, dass Sie unsere App verwenden. Ihre Privatsphäre ist uns wichtig, bitte nehmen Sie sich einen Moment Zeit, um unsere Datenschutzrichtlinie zu lesen.",
+  "data_collected": "Unsere App bietet die folgenden Datenaufzeichnungsfunktionen an:",
+  "data_list": {
+    "blood_pressure": "Blutdruck",
+    "blood_oxygen": "Blutsauerstoff",
+    "blood_sugar": "Blutzucker",
+    "heart_rate": "Herzfrequenz",
+    "body_temperature": "Körpertemperatur",
+    "weight": "Größe",
+    "height": "Gewicht"
+  },
+  "data_usage": "Verwendung dieser Daten",
+  "data_usage_desc": "Diese Daten stammen aus den Informationen, die Sie aktiv beim Verwenden der App aufzeichnen. Die aufgezeichneten Daten werden nur innerhalb der App verwendet, um Ihnen eine anschauliche Anzeige und bequeme Verwaltung zu bieten. Diese Daten gehören vollständig zu Ihrer persönlichen Privatsphäre, und wir verpflichten uns, sie niemals mit Dritten zu teilen oder für andere Zwecke zu verwenden.",
+  "data_storage": "Daten Speicherung und Schutz",
+  "data_storage_desc": "Alle von Ihnen aufgezeichneten Daten werden nur auf dem von Ihnen verwendeten Gerät gespeichert und nicht über das Netzwerk auf eine Plattform hochgeladen. Sie haben die vollständige Kontrolle über Ihre Daten, und wenn Sie die App löschen, werden diese Daten ebenfalls gelöscht.",
+  "third": "Verwendung von Drittanbieterdiensten",
+  "third_desc": "Diese App wird Ihre Daten nicht mit Dritten teilen. Werbetreibende zeigen nur auf Geräten basierte Inhalte an und beziehen keine Daten ein, die Sie in der App aufgezeichnet haben.",
+  "privacy": "Aktualisierungen der Datenschutzerklärung",
+  "privacy_desc": "Die Datenschutzerklärung kann sich mit Änderungen der App-Funktionalitäten oder Vorschriften ändern. Jede Änderung wird umgehend auf dieser Seite aktualisiert.",
+  "contact_us": "Kontaktieren Sie uns",
+  "email": "E-Mail:",
+  "copyRight": "© 2024 GesundTrack"
+}

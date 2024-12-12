@@ -1,0 +1,25 @@
+{
+  "title": "Gizlilik Politikası",
+  "intro": "Uygulamamızı kullandığınız için teşekkür ederiz. Gizliliğiniz bizim için çok önemlidir, lütfen gizlilik politikamızı okumak için biraz zaman ayırın.",
+  "data_collected": "Uygulamamız aşağıdaki veri kayıt işlevlerini sunar:",
+  "data_list": {
+    "blood_pressure": "Kan Basıncı",
+    "blood_oxygen": "Kan Oksijeni",
+    "blood_sugar": "Kan Şekeri",
+    "heart_rate": "Kalp Atış Hızı",
+    "body_temperature": "Vücut Sıcaklığı",
+    "weight": "Kilo",
+    "height": "Boy"
+  },
+  "data_usage": "Bu verilerin kullanımı hakkında",
+  "data_usage_desc": "Bu veriler, uygulamayı kullanırken gönüllü olarak kaydettiğiniz bilgilerden alınır. Kayıt altına alınan veriler yalnızca uygulama içinde size görsel bir gösterim ve kolay yönetim sağlamak için kullanılır. Bu veriler tamamen sizin kişisel gizliliğinize aittir ve hiçbir şekilde üçüncü taraflarla paylaşılmayacağını veya başka amaçlarla kullanılmayacağını taahhüt ediyoruz.",
+  "data_storage": "Veri depolama ve koruma",
+  "data_storage_desc": "Kaydettiğiniz tüm veriler yalnızca kullandığınız cihazda saklanır ve herhangi bir platforma ağ üzerinden yüklenmez. Verilerinizi tamamen kontrol edebilirsiniz ve uygulamayı sildiğinizde bu veriler de tamamen silinir.",
+  "third": "Üçüncü taraf hizmetlerin kullanımı",
+  "third_desc": "Uygulamamız verilerinizi hiçbir üçüncü tarafla paylaşmaz. Reklam verenler yalnızca cihaz bilgilerine dayalı içerik gösterir ve uygulamada kaydettiğiniz herhangi bir veriyle ilgilenmez.",
+  "privacy": "Gizlilik Politikası Güncellemeleri",
+  "privacy_desc": "Gizlilik politikası, uygulama özellikleri veya yasal düzenlemelere göre değiştirilebilir. Her değişiklik bu sayfada zamanında güncellenecektir.",
+  "contact_us": "Bize Ulaşın",
+  "email": "E-posta:",
+  "copyRight": "© 2024 SağlıkTakip"
+}

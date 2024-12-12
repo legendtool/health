@@ -1,0 +1,25 @@
+{
+  "title": "Privacybeleid",
+  "intro": "Bedankt voor het gebruik van onze app. Uw privacy is erg belangrijk voor ons, neem alstublieft de tijd om ons privacybeleid door te lezen.",
+  "data_collected": "Onze app biedt de volgende functies voor het registreren van gegevens:",
+  "data_list": {
+    "blood_pressure": "Bloeddruk",
+    "blood_oxygen": "Bloedzuurstof",
+    "blood_sugar": "Bloedglucose",
+    "heart_rate": "Hartslag",
+    "body_temperature": "Lichaamstemperatuur",
+    "weight": "Gewicht",
+    "height": "Lengte"
+  },
+  "data_usage": "Over het gebruik van deze gegevens",
+  "data_usage_desc": "Deze gegevens zijn afkomstig van informatie die u vrijwillig registreert tijdens het gebruik van de app. De geregistreerde gegevens worden uitsluitend binnen de app gebruikt om u een duidelijke weergave en eenvoudig beheer te bieden. Deze gegevens behoren volledig tot uw persoonlijke privacy en wij beloven ze nooit te delen met derden of voor andere doeleinden te gebruiken.",
+  "data_storage": "Gegevensopslag en -beveiliging",
+  "data_storage_desc": "Alle gegevens die u registreert, worden uitsluitend opgeslagen op het apparaat dat u gebruikt. Deze gegevens worden niet via het netwerk geüpload naar een platform. U heeft volledige controle over uw gegevens en wanneer u de app verwijdert, worden deze gegevens ook verwijderd.",
+  "third": "Gebruik van diensten van derden",
+  "third_desc": "Onze app deelt uw gegevens niet met derden. Adverteerders tonen alleen inhoud op basis van apparaatgegevens en dit heeft geen betrekking op de gegevens die u in de app registreert.",
+  "privacy": "Updates van het privacybeleid",
+  "privacy_desc": "Het privacybeleid kan worden aangepast op basis van app-functionaliteiten of regelgeving. Elke wijziging wordt tijdig op deze pagina bijgewerkt.",
+  "contact_us": "Neem contact met ons op",
+  "email": "E-mail:",
+  "copyRight": "© 2024 GezondTrack"
+}

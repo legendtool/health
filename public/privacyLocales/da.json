@@ -1,0 +1,25 @@
+{
+  "title": "Privatlivspolitik",
+  "intro": "Tak fordi du bruger vores app. Din privatliv er vigtigt for os, så tag venligst et øjeblik til at læse vores privatlivspolitik.",
+  "data_collected": "Vores app tilbyder følgende funktioner til dataregistrering:",
+  "data_list": {
+    "blood_pressure": "Blodtryk",
+    "blood_oxygen": "Blodsyrgass",
+    "blood_sugar": "Blodsukker",
+    "heart_rate": "Hjertefrekvens",
+    "body_temperature": "Kropstemperatur",
+    "weight": "Højde",
+    "height": "Vægt"
+  },
+  "data_usage": "Om brugen af disse data",
+  "data_usage_desc": "Disse data stammer fra de oplysninger, du aktivt registrerer, mens du bruger appen. De registrerede data bruges kun i appen for at give dig en visuel præsentation og nem styring. Disse data tilhører udelukkende din personlige privatliv, og vi lover aldrig at dele dem med tredjeparter eller bruge dem til andre formål.",
+  "data_storage": "Dataopbevaring og beskyttelse",
+  "data_storage_desc": "Alle de data, du registrerer, opbevares kun på den enhed, du bruger, og disse data uploades ikke til nogen platform over nettet. Du har fuld kontrol over dine data, og når du sletter appen, vil disse data også blive slettet.",
+  "third": "Brug af tredjepartstjenester",
+  "third_desc": "Denne app vil ikke dele dine data med tredjepart. Reklamefolk viser kun relevante indhold baseret på enhedsdata, og der indgår ikke nogen af de data, du har registreret i appen.",
+  "privacy": "Opdatering af privatlivspolitik",
+  "privacy_desc": "Privatlivspolitikken kan ændre sig med opdateringer af app-funktioner eller lovgivning. Hver ændring vil blive opdateret rettidigt på denne side.",
+  "contact_us": "Kontakt os",
+  "email": "E-mail:",
+  "copyRight": "© 2024 SundTrack"
+}

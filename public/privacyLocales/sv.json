@@ -1,0 +1,25 @@
+{
+  "title": "Integritetspolicy",
+  "intro": "Tack för att du använder vår app. Din integritet är viktig för oss, vänligen ta dig tid att läsa vår integritetspolicy.",
+  "data_collected": "Vår app tillhandahåller följande funktioner för att registrera data:",
+  "data_list": {
+    "blood_pressure": "Blodtryck",
+    "blood_oxygen": "Syremättnad i blodet",
+    "blood_sugar": "Blodsocker",
+    "heart_rate": "Hjärtfrekvens",
+    "body_temperature": "Kroppstemperatur",
+    "weight": "Vikt",
+    "height": "Längd"
+  },
+  "data_usage": "Om användningen av dessa data",
+  "data_usage_desc": "Dessa data kommer från information som du själv har registrerat under användning av appen. De registrerade uppgifterna används endast för att tillhandahålla tydlig visualisering och enkel hantering i appen. Dessa uppgifter tillhör helt och hållet din personliga integritet, och vi lovar att aldrig dela dem med tredje part eller använda dem för andra ändamål.",
+  "data_storage": "Databevarande och skydd",
+  "data_storage_desc": "Alla data som du registrerar lagras endast på din enhet och laddas inte upp till någon plattform via nätverket. Du har full kontroll över dina data, och när du raderar appen kommer dessa data också att raderas.",
+  "third": "Användning av tjänster från tredje part",
+  "third_desc": "Vår app delar inte dina uppgifter med någon tredje part. Annonsörer visar endast innehåll baserat på enhetsinformation och har ingen åtkomst till några data som du har registrerat i appen.",
+  "privacy": "Uppdatering av integritetspolicy",
+  "privacy_desc": "Integritetspolicyn kan komma att ändras i enlighet med appens funktioner eller lagkrav. Varje ändring kommer att uppdateras på denna sida i tid.",
+  "contact_us": "Kontakta oss",
+  "email": "E-post:",
+  "copyRight": "© 2024 HälsaTrack"
+}

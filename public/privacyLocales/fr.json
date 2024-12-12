@@ -1,0 +1,25 @@
+{
+  "title": "Politique de confidentialité",
+  "intro": "Merci d'utiliser notre application. Votre vie privée est importante pour nous, veuillez prendre un moment pour lire notre politique de confidentialité.",
+  "data_collected": "Notre application propose les fonctionnalités d'enregistrement de données suivantes :",
+  "data_list": {
+    "blood_pressure": "Pression artérielle",
+    "blood_oxygen": "Oxygène sanguin",
+    "blood_sugar": "Sucre sanguin",
+    "heart_rate": "Fréquence cardiaque",
+    "body_temperature": "Température corporelle",
+    "weight": "Poids",
+    "height": "Taille"
+  },
+  "data_usage": "Utilisation de ces données",
+  "data_usage_desc": "Ces données proviennent des informations que vous avez activement enregistrées lors de l'utilisation de cette application. Les données enregistrées ne sont utilisées que dans cette application pour vous fournir une présentation visuelle et une gestion pratique. Ces données sont entièrement de votre vie privée, et nous nous engageons à ne jamais les partager avec des tiers ni à les utiliser à d'autres fins.",
+  "data_storage": "Stockage et protection des données",
+  "data_storage_desc": "Toutes les données que vous enregistrez sont uniquement stockées sur l'appareil que vous utilisez, ces données ne sont pas téléchargées sur aucune plateforme via Internet. Vous avez un contrôle total sur vos données et, lorsque vous supprimez cette application, ces données seront également supprimées.",
+  "third": "Utilisation des services tiers",
+  "third_desc": "Cette application ne partagera pas vos données avec des tiers. Les annonceurs affichent uniquement du contenu en fonction des informations de l'appareil, sans aucun lien avec les données que vous avez enregistrées dans cette application.",
+  "privacy": "Mise à jour de la politique de confidentialité",
+  "privacy_desc": "La politique de confidentialité peut être mise à jour en fonction des fonctionnalités de l'application ou des ajustements réglementaires. Chaque modification sera mise à jour en temps réel sur cette page.",
+  "contact_us": "Contactez-nous",
+  "email": "Email :",
+  "copyRight": "© 2024 SantéSuivi"
+}

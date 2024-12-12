@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+  <link rel="stylesheet" href="./privacySrc/style.css">
+</head>
+<body>
+  <div class="header">
+    <div class="overlay">
+      <h1 id="title">Privacy Policy</h1>
+      <p id="intro">Thank you for using our app. Your privacy is important to us, please take a moment to read our privacy policy.</p>
+    </div>
+  </div>
+  <main class="container">
+    <div class="card">
+      <h2 id="data_collected">Our app provides the following data recording features:</h2>
+      <ul id="data_list"></ul>
+    </div>
+    <div class="card">
+      <h2 id="data_usage">Use of these Data</h2>
+      <p id="data_usage_desc">This data comes from the information you actively record while using the app. The recorded data is only used within the app to provide you with a visual display and convenient management. This data is entirely your personal privacy, and we commit to never sharing it with any third party or using it for other purposes.</p>
+    </div>
+    <div class="card">
+      <h2 id="data_storage">Data Storage and Protection</h2>
+      <p id="data_storage_desc">All the data you record is stored only on the device you are using, and this data is not uploaded to any platform over the network. You have full control over your data, and when you delete the app, this data will also be deleted.</p>
+    </div>
+    <div class="card">
+      <h2 id="third">Use of Third-Party Services</h2>
+      <p id="third_desc">This app will not share your data with any third parties. Advertisers only display relevant content based on device information, and do not involve any data you record in the app.</p>
+    </div>
+    <div class="card">
+      <h2 id="privacy">Privacy Policy Updates</h2>
+      <p id="privacy_desc">The privacy policy may change with adjustments to app functionality or regulations, and each change will be promptly updated on this page.</p>
+    </div>
+    <div class="card">
+      <h2 id="contact_us">Contact Us</h2>
+      <p id="email">Email: legendtools@hotmail.com</p>
+    </div>
+  </main>
+  <footer>
+    <p id="copyRight">&copy; 2024 HealthTracker.</p>
+  </footer>
+
+  <script>
+    const userLang = navigator.language || 'en';
+    const supportedLangs = ['en', 'zh-CN', 'zh-TW', 'fr', 'de', 'it', 'es', 'nl', 'sv', 'no', 'da', 'ja', 'ko', 'pt-BR', 'pt-PT', 'ru', 'hi', 'ar', 'vi', 'th', 'tr'];
+    const langFile = supportedLangs.includes(userLang) ? userLang : 'en';
+    fetch(`./privacyLocales/${langFile}.json`)
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('title').textContent = data.title;
+        document.getElementById('intro').textContent = data.intro;
+        document.getElementById('data_collected').textContent = data.data_collected;
+        const dataList = document.getElementById('data_list');
+        Object.values(data.data_list).forEach(item => {
+          const li = document.createElement('li');
+          li.textContent = item;
+          dataList.appendChild(li);
+        });
+        document.getElementById('data_usage').textContent = data.data_usage;
+        document.getElementById('data_usage_desc').textContent = data.data_usage_desc;
+        document.getElementById('data_storage').textContent = data.data_storage;
+        document.getElementById('data_storage_desc').textContent = data.data_storage_desc;
+        document.getElementById('third').textContent = data.third;
+        document.getElementById('third_desc').textContent = data.third_desc;
+        document.getElementById('privacy').textContent = data.privacy;
+        document.getElementById('privacy_desc').textContent = data.privacy_desc;
+        document.getElementById('contact_us').textContent = data.contact_us;
+        document.getElementById('copyRight').textContent = data.copyRight;
+        document.getElementById('email').textContent = `${data.email}: legendtools@hotmail.com`;
+      })
+      .catch(err => {
+        console.error('Error loading language file:', err);
+      });
+  </script>
+</body>
+</html>

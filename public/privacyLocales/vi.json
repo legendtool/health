@@ -1,0 +1,25 @@
+{
+  "title": "Chính sách quyền riêng tư",
+  "intro": "Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi. Quyền riêng tư của bạn rất quan trọng đối với chúng tôi, vui lòng dành thời gian đọc chính sách quyền riêng tư của chúng tôi.",
+  "data_collected": "Ứng dụng của chúng tôi cung cấp các chức năng ghi lại dữ liệu sau:",
+  "data_list": {
+    "blood_pressure": "Huyết áp",
+    "blood_oxygen": "Oxy trong máu",
+    "blood_sugar": "Đường huyết",
+    "heart_rate": "Nhịp tim",
+    "body_temperature": "Nhiệt độ cơ thể",
+    "weight": "Cân nặng",
+    "height": "Chiều cao"
+  },
+  "data_usage": "Cách sử dụng các dữ liệu này",
+  "data_usage_desc": "Những dữ liệu này được ghi lại từ thông tin bạn tự nguyện cung cấp khi sử dụng ứng dụng. Dữ liệu sau khi ghi lại sẽ chỉ được sử dụng để hiển thị trực quan và quản lý thuận tiện trong ứng dụng. Những dữ liệu này hoàn toàn thuộc về quyền riêng tư của bạn, chúng tôi cam kết không chia sẻ với bất kỳ bên thứ ba nào hoặc sử dụng vào các mục đích khác.",
+  "data_storage": "Lưu trữ và bảo vệ dữ liệu",
+  "data_storage_desc": "Tất cả dữ liệu bạn ghi lại sẽ chỉ được lưu trữ trên thiết bị của bạn và sẽ không được tải lên bất kỳ nền tảng nào qua mạng. Bạn hoàn toàn kiểm soát dữ liệu của mình, và khi bạn xóa ứng dụng, dữ liệu này cũng sẽ bị xóa theo.",
+  "third": "Sử dụng dịch vụ của bên thứ ba",
+  "third_desc": "Ứng dụng của chúng tôi không chia sẻ dữ liệu của bạn với bất kỳ bên thứ ba nào. Nhà quảng cáo chỉ hiển thị nội dung dựa trên thông tin thiết bị và không liên quan đến bất kỳ dữ liệu nào bạn đã ghi lại trong ứng dụng.",
+  "privacy": "Cập nhật chính sách quyền riêng tư",
+  "privacy_desc": "Chính sách quyền riêng tư có thể được điều chỉnh theo tính năng của ứng dụng hoặc quy định pháp luật. Mỗi lần thay đổi sẽ được cập nhật kịp thời trên trang này.",
+  "contact_us": "Liên hệ với chúng tôi",
+  "email": "Email:",
+  "copyRight": "© 2024 SứcKhỏe"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Política de Privacidade",
+  "intro": "Obrigado por usar nosso aplicativo. Sua privacidade é muito importante para nós. Por favor, reserve um tempo para ler nossa política de privacidade.",
+  "data_collected": "Nosso aplicativo oferece as seguintes funcionalidades de registro de dados:",
+  "data_list": {
+    "blood_pressure": "Pressão arterial",
+    "blood_oxygen": "Oxigênio no sangue",
+    "blood_sugar": "Açúcar no sangue",
+    "heart_rate": "Frequência cardíaca",
+    "body_temperature": "Temperatura corporal",
+    "weight": "Peso",
+    "height": "Altura"
+  },
+  "data_usage": "Sobre o uso desses dados",
+  "data_usage_desc": "Esses dados são provenientes de informações que você registra voluntariamente ao usar o aplicativo. Os dados registrados são usados exclusivamente dentro do aplicativo para oferecer uma exibição intuitiva e um gerenciamento conveniente. Esses dados pertencem totalmente à sua privacidade pessoal, e prometemos nunca compartilhá-los com terceiros ou usá-los para outros fins.",
+  "data_storage": "Armazenamento e proteção de dados",
+  "data_storage_desc": "Todos os dados registrados por você são armazenados apenas no dispositivo que você utiliza. Esses dados não serão enviados para nenhuma plataforma pela internet. Você tem controle total sobre seus dados, e ao excluir o aplicativo, esses dados também serão excluídos.",
+  "third": "Uso de serviços de terceiros",
+  "third_desc": "Nosso aplicativo não compartilha seus dados com terceiros. Os anunciantes exibem conteúdo com base apenas nas informações do dispositivo, sem acesso aos dados que você registra no aplicativo.",
+  "privacy": "Atualizações da Política de Privacidade",
+  "privacy_desc": "A política de privacidade pode ser ajustada de acordo com as funcionalidades do aplicativo ou regulamentações. Cada alteração será atualizada nesta página de forma oportuna.",
+  "contact_us": "Contate-nos",
+  "email": "E-mail:",
+  "copyRight": "© 2024 SaúdeTrack"
+}

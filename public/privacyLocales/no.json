@@ -1,0 +1,25 @@
+{
+  "title": "Personvernavtale",
+  "intro": "Takk for at du bruker vår app. Din personvern er veldig viktig for oss, vennligst ta deg tid til å lese vår personvernpolicy.",
+  "data_collected": "Vår app tilbyr følgende funksjoner for datalogging:",
+  "data_list": {
+    "blood_pressure": "Blodtrykk",
+    "blood_oxygen": "Blodoksygen",
+    "blood_sugar": "Blodsukker",
+    "heart_rate": "Hjertefrekvens",
+    "body_temperature": "Kroppstemperatur",
+    "weight": "Vekt",
+    "height": "Høyde"
+  },
+  "data_usage": "Om bruken av disse dataene",
+  "data_usage_desc": "Disse dataene stammer fra informasjon som du frivillig registrerer mens du bruker appen. De registrerte dataene brukes utelukkende i appen for å gi deg en intuitiv visning og praktisk administrasjon. Disse dataene tilhører fullt ut ditt personvern, og vi lover å aldri dele dem med tredjeparter eller bruke dem til andre formål.",
+  "data_storage": "Databevaring og beskyttelse",
+  "data_storage_desc": "Alle dataene du registrerer lagres kun på enheten du bruker. Disse dataene lastes ikke opp til noen plattformer via nettverket. Du har full kontroll over dine data, og når du sletter appen, vil også disse dataene bli slettet.",
+  "third": "Bruk av tredjepartstjenester",
+  "third_desc": "Vår app deler ikke dataene dine med noen tredjepart. Annonsører viser kun innhold basert på enhetsinformasjon, og dette berører aldri dataene du har registrert i appen.",
+  "privacy": "Oppdateringer i personvernpolicyen",
+  "privacy_desc": "Personvernpolicyen kan justeres i henhold til appfunksjoner eller regelverk. Hver endring vil bli oppdatert på denne siden i tide.",
+  "contact_us": "Kontakt oss",
+  "email": "E-post:",
+  "copyRight": "© 2024 HelseTrack"
+}

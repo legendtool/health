@@ -1,0 +1,25 @@
+{
+  "title": "Politica sulla privacy",
+  "intro": "Grazie per aver utilizzato la nostra applicazione. La tua privacy è molto importante per noi, ti preghiamo di dedicare del tempo a leggere la nostra politica sulla privacy.",
+  "data_collected": "La nostra applicazione offre le seguenti funzionalità di registrazione dei dati:",
+  "data_list": {
+    "blood_pressure": "Pressione sanguigna",
+    "blood_oxygen": "Saturazione di ossigeno nel sangue",
+    "blood_sugar": "Zucchero nel sangue",
+    "heart_rate": "Frequenza cardiaca",
+    "body_temperature": "Temperatura corporea",
+    "weight": "Altezza",
+    "height": "Peso"
+  },
+  "data_usage": "Uso di questi dati",
+  "data_usage_desc": "Questi dati provengono dalle informazioni che registri attivamente durante l'uso dell'applicazione. I dati registrati vengono utilizzati solo all'interno dell'applicazione per fornirti una visualizzazione intuitiva e una gestione conveniente. Questi dati appartengono completamente alla tua privacy personale e ci impegniamo a non condividerli con terze parti o utilizzarli per altri scopi.",
+  "data_storage": "Conservazione e protezione dei dati",
+  "data_storage_desc": "Tutti i dati che registri vengono conservati solo sul dispositivo che utilizzi e non vengono caricati su nessuna piattaforma online. Puoi controllare completamente i tuoi dati e, quando elimini questa applicazione, i dati verranno eliminati insieme a essa.",
+  "third": "Uso dei servizi di terze parti",
+  "third_desc": "Questa applicazione non condividerà i tuoi dati con terze parti. Gli inserzionisti visualizzano solo contenuti basati sulle informazioni del dispositivo, senza coinvolgere alcun dato che hai registrato nell'applicazione.",
+  "privacy": "Aggiornamenti della politica sulla privacy",
+  "privacy_desc": "La politica sulla privacy può essere aggiornata in base alle modifiche delle funzionalità dell'applicazione o delle normative. Ogni volta che ci sono modifiche, verranno tempestivamente aggiornate su questa pagina.",
+  "contact_us": "Contattaci",
+  "email": "Email:",
+  "copyRight": "© 2024 SaluteTrack"
+}
