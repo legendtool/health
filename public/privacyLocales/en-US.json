@@ -1,0 +1,26 @@
+{
+    "title": "Privacy Policy",
+    "intro": "Thank you for using our app. Your privacy is important to us, please take a moment to read our privacy policy.",
+    "data_collected": "Our app provides the following data recording features:",
+    "data_list": {
+      "blood_pressure": "Blood Pressure",
+      "blood_oxygen": "Blood Oxygen",
+      "blood_sugar": "Blood Sugar",
+      "heart_rate": "Heart Rate",
+      "body_temperature": "Body Temperature",
+      "weight": "Height",
+      "height": "Weight"
+    },
+    "data_usage": "Use of these Data",
+    "data_usage_desc": "This data comes from the information you actively record while using the app. The recorded data is only used within the app to provide you with a visual display and convenient management. This data is entirely your personal privacy, and we commit to never sharing it with any third party or using it for other purposes.",
+    "data_storage": "Data Storage and Protection",
+    "data_storage_desc": "All the data you record is stored only on the device you are using, and this data is not uploaded to any platform over the network. You have full control over your data, and when you delete the app, this data will also be deleted.",
+    "third": "Use of Third-Party Services",
+    "third_desc": "This app will not share your data with any third parties. Advertisers only display relevant content based on device information, and do not involve any data you record in the app.",
+    "privacy": "Privacy Policy Updates",
+    "privacy_desc": "The privacy policy may change with adjustments to app functionality or regulations, and each change will be promptly updated on this page.",
+    "contact_us": "Contact Us",
+    "email": "Email:",
+    "copyRight": "© 2024 HealthTracker"
+  }
+  
