@@ -47,6 +47,7 @@
     const userLang = navigator.language || 'en';
     const supportedLangs = ['en', 'zh-CN', 'zh-TW', 'fr', 'de', 'it', 'es', 'nl', 'sv', 'no', 'da', 'ja', 'ko', 'pt-BR', 'pt-PT', 'ru', 'hi', 'ar', 'vi', 'th', 'tr'];
     const langFile = supportedLangs.includes(userLang) ? userLang : 'en';
+    document.documentElement.lang = langFile;
     fetch(`./privacyLocales/${langFile}.json`)
       .then(response => response.json())
       .then(data => {
