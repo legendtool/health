@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Current Language</title>
+</head>
+<body>
+    <h1>Current Language</h1>
+    <p id="language"></p>
+
+    <script>
+        // 获取浏览器的语言
+        const userLanguage = navigator.language || navigator.userLanguage;
+
+        // 显示当前语言
+        document.getElementById('language').textContent = `Your current language is: ${userLanguage}`;
+    </script>
+</body>
+</html>
