@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "{name}'e hoş geldiniz, size yardımcı olmak için buradayız!",
+    "name": "Sağlık Yoldaşı",
+    "question": "Sıkça Sorulan Sorular",
+    "q1": "Özelleştirildikten sonra neden bildirim almıyorum?",
+    "a11": "Uygulamada özel bildirimlerin açık olduğundan emin olun.",
+    "a12": "Eklenen bildirimin tekrarının açık olup olmadığını kontrol edin. Eğer tekrar tarihi seçilmediyse, bildirim yalnızca belirlenen saatte bir kez gönderilecektir.",
+    "a13": "Telefonunuzun sistem ayarlarında bildirim izinlerini kontrol edin ve açık olduğundan emin olun.",
+    "q2": "Eklendikten sonra bir bildirimi nasıl silebilirim?",
+    "a21": "Uygulamada silmek istediğiniz bildirime uzun basın ve Sil'e dokunun.",
+    "q3": "İstatistik sayfasındaki veriler nasıl filtrelenir?",
+    "a31": "Grafiğin altında, filtrelemek istediğiniz öğeye dokunun. Örneğin, sabah verilerini gizlemek için sabah düğmesine dokunun ve tekrar göster.",
+    "q4": "İstatistiklerdeki ölçü birimi sorunları",
+    "a41": "Daha Fazla modülünde, ölçü birimlerini (örneğin boy için cm veya ft) ayarlayabilirsiniz.",
+    "feedBack": "Geri Bildirim ve Öneriler",
+    "feedBackDes": "Bu uygulamayı kullanırken herhangi bir sorunla karşılaşırsanız, bizimle iletişime geçin. Harika fikirleriniz veya önerileriniz varsa, bunları bizimle paylaşmaktan çekinmeyin. Önerilerinizi dikkatlice değerlendirecek ve gerekli değişiklikleri yapacağız.",
+    "connectUS": "Bize Ulaşın",
+    "connectUSDes": "E-posta adresi: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Tüm Hakları Saklıdır",
+    "privacy": "Gizlilik Politikası"
 }
-  

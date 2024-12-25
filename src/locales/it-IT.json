@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Benvenuto in {name}, siamo qui per aiutarti!",
+    "name": "SaluteTrack",
+    "question": "Domande frequenti",
+    "q1": "Perché non ricevo notifiche dopo averle personalizzate?",
+    "a11": "Assicurati che lo stato delle notifiche personalizzate nell'app sia attivo.",
+    "a12": "Controlla se la notifica aggiunta ha l'opzione di promemoria ripetuti abilitata. Se non sono state selezionate date di ripetizione, la notifica verrà inviata solo una volta all'orario impostato.",
+    "a13": "Verifica le autorizzazioni per le notifiche nelle impostazioni di sistema del telefono per assicurarti che siano abilitate.",
+    "q2": "Come eliminare una notifica dopo averla aggiunta?",
+    "a21": "Tieni premuto l'elemento della notifica che desideri eliminare nell'app, quindi fai clic su Elimina.",
+    "q3": "Come filtrare i dati nella pagina delle statistiche?",
+    "a31": "Sotto il grafico, tocca l'elemento che desideri filtrare. Ad esempio, se non vuoi visualizzare i dati del mattino, tocca il pulsante mattino per nasconderli. Tocca di nuovo per mostrarli.",
+    "q4": "Problemi con le unità di misura statistiche",
+    "a41": "Puoi impostare le unità di misura nel modulo Altro, come cm o ft per l'altezza.",
+    "feedBack": "Feedback e suggerimenti",
+    "feedBackDes": "Se incontri problemi durante l'uso di questa app, contattaci. Se hai suggerimenti o idee, sentiti libero di condividerli con noi. Considereremo attentamente i tuoi suggerimenti e apporteremo le modifiche necessarie.",
+    "connectUS": "Contattaci",
+    "connectUSDes": "Indirizzo email: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Tutti i diritti riservati",
+    "privacy": "Politica sulla privacy"
 }
-  

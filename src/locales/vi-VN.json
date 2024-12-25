@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Chào mừng đến với {name}, chúng tôi ở đây để hỗ trợ bạn!",
+    "name": "Bạn khỏe",
+    "question": "Câu hỏi thường gặp",
+    "q1": "Tại sao không nhận được thông báo sau khi tùy chỉnh?",
+    "a11": "Đảm bảo rằng trạng thái thông báo tùy chỉnh trong ứng dụng đã được bật.",
+    "a12": "Kiểm tra xem thông báo đã thêm có bật chế độ lặp lại không. Nếu không chọn ngày lặp lại, thông báo sẽ chỉ được gửi một lần vào thời gian được thiết lập.",
+    "a13": "Kiểm tra quyền thông báo trong cài đặt hệ thống điện thoại và đảm bảo rằng chúng được bật.",
+    "q2": "Làm cách nào để xóa thông báo sau khi thêm?",
+    "a21": "Nhấn giữ vào thông báo bạn muốn xóa trong ứng dụng, sau đó nhấn Xóa.",
+    "q3": "Làm cách nào để lọc dữ liệu trong trang thống kê?",
+    "a31": "Dưới biểu đồ, nhấn vào mục bạn muốn lọc. Ví dụ, để ẩn dữ liệu buổi sáng, nhấn vào nút buổi sáng. Nhấn lại để hiển thị.",
+    "q4": "Sự cố đơn vị đo lường trong thống kê",
+    "a41": "Trong mục Thêm, bạn có thể thiết lập đơn vị đo lường, ví dụ: cm hoặc ft cho chiều cao.",
+    "feedBack": "Phản hồi và gợi ý",
+    "feedBackDes": "Nếu bạn gặp vấn đề khi sử dụng ứng dụng này, vui lòng liên hệ với chúng tôi. Nếu bạn có ý tưởng hoặc đề xuất tốt, đừng ngần ngại chia sẻ với chúng tôi. Chúng tôi sẽ xem xét cẩn thận và thực hiện thay đổi.",
+    "connectUS": "Liên hệ với chúng tôi",
+    "connectUSDes": "Địa chỉ email: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Bản quyền thuộc về",
+    "privacy": "Chính sách Bảo mật"
 }
-  

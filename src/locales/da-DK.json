@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Velkommen til {name}, vi er her for at hjælpe dig!",
+    "name": "SundTrack",
+    "question": "Ofte stillede spørgsmål",
+    "q1": "Hvorfor modtager jeg ikke notifikationer efter tilpasning?",
+    "a11": "Sørg for, at status for brugerdefinerede notifikationer i appen er aktiveret.",
+    "a12": "Tjek, om den tilføjede notifikation har gentagelse aktiveret. Hvis der ikke er valgt gentagelsesdatoer, sendes notifikationen kun én gang på det indstillede tidspunkt.",
+    "a13": "Kontroller notifikationsindstillingerne i telefonens systemindstillinger, og sørg for, at de er aktiveret.",
+    "q2": "Hvordan sletter jeg en notifikation, efter den er tilføjet?",
+    "a21": "Hold fingeren nede på den notifikation, du vil slette, i appen, og tryk på Slet.",
+    "q3": "Hvordan filtrerer jeg data på statistiksiden?",
+    "a31": "Under grafen kan du trykke på det element, du vil filtrere. For eksempel, hvis du ikke vil vise morgenens data, kan du trykke på morgenen-knappen for at skjule det og trykke igen for at vise det.",
+    "q4": "Problemer med måleenheder i statistikker",
+    "a41": "I sektionen Mere kan du indstille måleenheder, f.eks. cm eller ft for højde.",
+    "feedBack": "Feedback og forslag",
+    "feedBackDes": "Hvis du støder på problemer under brug af denne app, så kontakt os. Har du gode idéer eller forslag, er du velkommen til at dele dem med os. Vi gennemgår dine forslag nøje og foretager de nødvendige justeringer hurtigst muligt.",
+    "connectUS": "Kontakt os",
+    "connectUSDes": "E-mailadresse: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Alle rettigheder forbeholdes",
+    "privacy": "Fortrolighedspolitik"
 }
-  

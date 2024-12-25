@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Välkommen till {name}, vi är här för att hjälpa dig!",
+    "name": "HälsaTrack",
+    "question": "Vanliga frågor",
+    "q1": "Varför får jag inga notiser efter att ha anpassat dem?",
+    "a11": "Se till att status för anpassade notiser i appen är aktiverad.",
+    "a12": "Kontrollera om den tillagda notisen har repetitioner aktiverat. Om inga repetitionsdatum är valda skickas notisen endast en gång vid den inställda tiden.",
+    "a13": "Kontrollera inställningarna för notiser i telefonens systeminställningar och se till att de är aktiverade.",
+    "q2": "Hur tar jag bort en notis efter att den lagts till?",
+    "a21": "Tryck och håll på notisen du vill ta bort i appen och klicka på Ta bort.",
+    "q3": "Hur filtrerar jag data på statistik-sidan?",
+    "a31": "Under diagrammet kan du trycka på det objekt du vill filtrera. Till exempel, för att dölja morgondata, tryck på morgonknappen för att dölja och tryck igen för att visa.",
+    "q4": "Problem med måttenheter i statistiken",
+    "a41": "I Mer-sektionen kan du ställa in måttenheter, som cm eller ft för längd.",
+    "feedBack": "Feedback och förslag",
+    "feedBackDes": "Om du stöter på några problem under användning av denna app, vänligen kontakta oss. Om du har bra idéer eller förslag, tveka inte att dela dem med oss. Vi kommer att noggrant granska dina förslag och göra nödvändiga justeringar snabbt.",
+    "connectUS": "Kontakta oss",
+    "connectUSDes": "E-postadress: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Alla rättigheter förbehållna",
+    "privacy": "Integritetspolicy"
 }
-  

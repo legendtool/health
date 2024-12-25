@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Bem-vindo ao {name}, estamos aqui para ajudar você!",
+    "name": "SaúdeTrack",
+    "question": "Perguntas frequentes",
+    "q1": "Por que não recebo notificações após personalizá-las?",
+    "a11": "Certifique-se de que o status das notificações personalizadas no aplicativo está ativado.",
+    "a12": "Verifique se a notificação adicionada tem repetição ativada. Caso nenhuma data de repetição tenha sido selecionada, a notificação será enviada apenas uma vez no horário configurado.",
+    "a13": "Verifique as permissões de notificação nas configurações do sistema do telefone e certifique-se de que estão ativadas.",
+    "q2": "Como excluir uma notificação após adicioná-la?",
+    "a21": "Pressione e segure o item de notificação que deseja excluir no aplicativo e clique em Excluir.",
+    "q3": "Como filtrar dados na página de estatísticas?",
+    "a31": "Abaixo do gráfico, toque no item que deseja filtrar. Por exemplo, para ocultar os dados da manhã, toque no botão da manhã para escondê-los e toque novamente para exibi-los.",
+    "q4": "Problemas com unidades de medida nas estatísticas",
+    "a41": "No módulo Mais, você pode configurar as unidades de medida, como cm ou ft para altura.",
+    "feedBack": "Feedback e sugestões",
+    "feedBackDes": "Caso encontre qualquer problema ao usar este aplicativo, entre em contato conosco. Se tiver boas ideias ou sugestões, fique à vontade para compartilhá-las conosco. Analisaremos suas sugestões cuidadosamente e faremos os ajustes necessários rapidamente.",
+    "connectUS": "Contate-nos",
+    "connectUSDes": "Endereço de e-mail: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Todos os direitos reservados",
+    "privacy": "Política de Privacidade"
 }
-  

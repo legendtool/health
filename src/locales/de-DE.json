@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Willkommen bei {name}, wir sind hier, um Ihnen zu helfen!",
+    "name": "GesundTrack",
+    "question": "Häufige Fragen",
+    "q1": "Warum erhalte ich keine Benachrichtigungen nach der Anpassung?",
+    "a11": "Stellen Sie sicher, dass der benutzerdefinierte Benachrichtigungsstatus in der App aktiviert ist.",
+    "a12": "Überprüfen Sie, ob die hinzugefügte Benachrichtigung Wiederholungen aktiviert hat. Wenn keine Wiederholungsdaten ausgewählt wurden, wird die Benachrichtigung nur einmal zur festgelegten Zeit ausgelöst.",
+    "a13": "Überprüfen Sie die Benachrichtigungseinstellungen in den Systemeinstellungen Ihres Telefons, um sicherzustellen, dass sie aktiviert sind.",
+    "q2": "Wie lösche ich eine Benachrichtigung nach dem Hinzufügen?",
+    "a21": "Halten Sie die zu löschende Benachrichtigung in der App gedrückt und klicken Sie dann auf Löschen.",
+    "q3": "Wie filtere ich Daten auf der Statistikseite?",
+    "a31": "Unterhalb des Diagramms tippen Sie auf den Punkt, den Sie filtern möchten. Wenn Sie beispielsweise die Morgendaten ausblenden möchten, tippen Sie auf den Morgen-Button, um sie zu verbergen. Tippen Sie erneut, um sie anzuzeigen.",
+    "q4": "Probleme mit statistischen Maßeinheiten",
+    "a41": "Im Modul Mehr können Maßeinheiten festgelegt werden, z. B. cm oder ft für die Körpergröße.",
+    "feedBack": "Feedback und Vorschläge",
+    "feedBackDes": "Wenn Sie Probleme bei der Nutzung dieser App haben, kontaktieren Sie uns bitte. Wenn Sie gute Vorschläge oder Ideen haben, können Sie uns jederzeit kontaktieren. Wir werden Ihre Vorschläge sorgfältig prüfen und entsprechende Anpassungen vornehmen.",
+    "connectUS": "Kontaktieren Sie uns",
+    "connectUSDes": "E-Mail-Adresse: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Alle Rechte vorbehalten",
+    "privacy": "Datenschutzrichtlinie"
 }
-  

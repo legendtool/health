@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Welcome to {name}, we are here to assist you!",
+    "name": "VitalStats",
+    "question": "FAQs",
+    "q1": "Why am I not receiving notifications after customizing them?",
+    "a11": "Ensure that the custom notification status within the app is turned on.",
+    "a12": "Check if the added notification has repeat reminders enabled. If no repeat dates are selected, the notification will only alert once at the set time.",
+    "a13": "Check the notification permissions in your phone's system settings to ensure they are enabled.",
+    "q2": "How to delete a notification after adding it?",
+    "a21": "Long-press the notification item you want to delete within the app, then click delete.",
+    "q3": "How to filter data on the statistics page?",
+    "a31": "Below the chart, tap the item you want to filter. For example, if you don't want to display morning data, tap the morning button to hide it. Tap again to show it.",
+    "q4": "Issues with statistical measurement units",
+    "a41": "You can set measurement units in the More module, such as cm or ft for height.",
+    "feedBack": "Feedback and Suggestions",
+    "feedBackDes": "If you encounter any problems while using this app, feel free to contact us. If you have any good suggestions or ideas, you can also reach out at any time. We will carefully consider your suggestions and make timely adjustments.",
+    "connectUS": "Contact Us",
+    "connectUSDes": "Email Address: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} All Rights Reserved",
+    "privacy": "Privacy Policy"
 }
-  

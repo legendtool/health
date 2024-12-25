@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Welkom bij {name}, wij staan klaar om u te helpen!",
+    "name": "GezondTrack",
+    "question": "Veelgestelde vragen",
+    "q1": "Waarom ontvang ik geen meldingen na het aanpassen?",
+    "a11": "Zorg ervoor dat de status van aangepaste meldingen in de app is ingeschakeld.",
+    "a12": "Controleer of de toegevoegde melding herhaling heeft ingeschakeld. Als er geen herhalingsdatum is geselecteerd, wordt de melding slechts één keer op de ingestelde tijd verzonden.",
+    "a13": "Controleer de meldingsmachtigingen in de systeeminstellingen van uw telefoon en zorg ervoor dat ze zijn ingeschakeld.",
+    "q2": "Hoe verwijder ik een melding na toevoeging?",
+    "a21": "Houd de melding die u wilt verwijderen in de app ingedrukt en tik op Verwijderen.",
+    "q3": "Hoe filter ik gegevens op de statistiekenpagina?",
+    "a31": "Onder de grafiek kunt u op het item tikken dat u wilt filteren. Als u bijvoorbeeld de ochtendgegevens niet wilt weergeven, tikt u op de ochtendknop om deze te verbergen en opnieuw om deze weer te geven.",
+    "q4": "Problemen met eenheden in statistieken",
+    "a41": "In de Meer-sectie kunt u meeteenheden instellen, zoals cm of ft voor lengte.",
+    "feedBack": "Feedback en suggesties",
+    "feedBackDes": "Als u problemen ondervindt bij het gebruik van deze app, neem dan contact met ons op. Als u goede ideeën of suggesties heeft, aarzel dan niet om deze met ons te delen. Wij zullen uw suggesties zorgvuldig beoordelen en de nodige aanpassingen snel doorvoeren.",
+    "connectUS": "Neem contact op",
+    "connectUSDes": "E-mailadres: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Alle rechten voorbehouden",
+    "privacy": "Privacybeleid"
 }
-  

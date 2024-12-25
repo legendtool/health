@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Velkommen til {name}, vi er her for å hjelpe deg!",
+    "name": "HelseTrack",
+    "question": "Ofte stilte spørsmål",
+    "q1": "Hvorfor mottar jeg ikke varsler etter tilpasning?",
+    "a11": "Sørg for at statusen for tilpassede varsler i appen er aktivert.",
+    "a12": "Sjekk om det tilpassede varselet har repetisjon aktivert. Hvis ingen gjentakelsesdatoer er valgt, vil varselet kun bli sendt én gang på den innstilte tiden.",
+    "a13": "Kontroller varslingsinnstillingene i telefonens systeminnstillinger, og sørg for at de er aktivert.",
+    "q2": "Hvordan sletter jeg et varsel etter at det er lagt til?",
+    "a21": "Trykk og hold på varselet du vil slette i appen, og klikk deretter på Slett.",
+    "q3": "Hvordan filtrerer jeg data på statistikk-siden?",
+    "a31": "Under grafen kan du trykke på elementet du vil filtrere. For eksempel, for å skjule morgen-data, trykk på morgen-knappen for å skjule og trykk igjen for å vise.",
+    "q4": "Problemer med måleenheter i statistikk",
+    "a41": "I Mer-delen kan du stille inn måleenheter, for eksempel cm eller ft for høyde.",
+    "feedBack": "Tilbakemelding og forslag",
+    "feedBackDes": "Hvis du opplever problemer under bruk av denne appen, vennligst kontakt oss. Hvis du har gode ideer eller forslag, ikke nøl med å dele dem med oss. Vi vil nøye gjennomgå dine forslag og gjøre nødvendige justeringer raskt.",
+    "connectUS": "Kontakt oss",
+    "connectUSDes": "E-postadresse: legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Alle rettigheter reservert",
+    "privacy": "Personvernregler"
 }
-  

@@ -7,43 +7,44 @@
         </div>
         <main class="container">
             <div class="card">
-                <h2>常见问题</h2>
-                <div class="qa-question">Q1. 自定义通知后怎么收不到通知</div>
+                <h2>{{ $t('question') }}</h2>
+                <div class="qa-question">Q1. {{ $t('q1') }}</div>
                 <div class="qa-answer">
-                    1. 确保应用内自定的通知状态是否是打开的。
+                    1. {{ $t('a11') }}
                     <br>
-                    2. 坚持添加的通知是否开启的了重复提醒，如果没有选择重复日期，通知只会在设置的时间通知一次。
+                    2. {{ $t('a12') }}
                     <br>
-                    3. 在手机系统设置内检查通知权限，确保通知权限是开启状态。
+                    3. {{ $t('a13') }}
                 </div>
                 <br>
-                <div class="qa-question">Q2. 添加通知后怎么删除</div>
+                <div class="qa-question">Q2. {{ $t('q2') }}</div>
                 <div class="qa-answer">
-                    1. 在应用内长按要删除的通知项，点击删除。
+                    1. {{ $t('a21') }}
                 </div>
                 <br>
-                <div class="qa-question">Q3. 在数据统计页面怎么筛选数据</div>
+                <div class="qa-question">Q3. {{ $t('q3') }}</div>
                 <div class="qa-answer">
-                    1. 在图标下方，点按要筛选的项目，比如不想展示早上的数据，点按早上按钮就能隐藏早上的数据，再次点击展示。
+                    1. {{ $t('a31') }}
                 </div>
                 <br>
-                <div class="qa-question">Q4. 数据统计计量单位问题</div>
+                <div class="qa-question">Q4. {{ $t('q4') }}</div>
                 <div class="qa-answer">
-                    1. 在更多模块中可以设置计量单位，比如身高的计量单位cm或ft。
+                    1. {{ $t('a41') }}
                 </div>
             </div>
             <div class="card">
-                <h2>意见与反馈</h2>
-                <p>在使用本应用的过程中，您遇到的任何问题都可以与我们联系。如果您有好的建议与想法也可以随时与我们联系。我们将会仔细考虑您的建议并及时做出适当的调整与更改。</p>
+                <h2>{{ $t('feedBack') }}</h2>
+                <p>{{ $t('feedBackDes') }}</p>
             </div>
             <div class="card">
-                <h2>联系我们</h2>
-                <p>邮件地址: legendtools@hotmail.com</p>
+                <h2>{{ $t('connectUS') }}</h2>
+                <p>{{ $t('connectUSDes') }}</p>
             </div>
         </main>
         <footer>
-            <p>{{ $t('copyRight') }}</p>
-            <a href="https://health.gtoolssh.com/privacy">隐私政策</a>
+            <p>{{ copyRight }}</p>
+            <a href="https://health.gtoolssh.com/privacy">{{ $t('privacy') }}</a>
+            <br>
         </footer>
     </div>
 </template>
@@ -51,9 +52,12 @@
 <script setup lang="ts">
 
 import { useI18n } from 'vue-i18n';
+
 const { t } = useI18n();
+
 const appName = t('name');
 const localizedGreeting = t('welcome', { name: appName });
+const copyRight = t('copyRight', { name: appName });
 
 </script>
 

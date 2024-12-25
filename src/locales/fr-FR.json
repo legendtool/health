@@ -1,5 +1,21 @@
 {
-    "welcome": "Welcome",
-    "greeting": "Hello, World!"
+    "welcome": "Bienvenue sur {name}, nous sommes là pour vous aider !",
+    "name": "SantéSuivi",
+    "question": "Questions fréquentes",
+    "q1": "Pourquoi ne reçois-je pas de notifications après les avoir personnalisées ?",
+    "a11": "Assurez-vous que l'état des notifications personnalisées dans l'application est activé.",
+    "a12": "Vérifiez si les notifications ajoutées ont activé les rappels répétés. Si aucune date de répétition n'est sélectionnée, la notification ne sera envoyée qu'une seule fois à l'heure définie.",
+    "a13": "Vérifiez les autorisations de notification dans les paramètres système de votre téléphone pour vous assurer qu'elles sont activées.",
+    "q2": "Comment supprimer une notification après l'avoir ajoutée ?",
+    "a21": "Appuyez longuement sur l'élément de notification que vous souhaitez supprimer dans l'application, puis cliquez sur supprimer.",
+    "q3": "Comment filtrer les données sur la page des statistiques ?",
+    "a31": "Sous le graphique, appuyez sur l'élément que vous souhaitez filtrer. Par exemple, si vous ne voulez pas afficher les données du matin, appuyez sur le bouton matin pour les masquer. Appuyez à nouveau pour les afficher.",
+    "q4": "Problèmes avec les unités de mesure statistiques",
+    "a41": "Vous pouvez définir des unités de mesure dans le module Plus, comme cm ou ft pour la taille.",
+    "feedBack": "Commentaires et suggestions",
+    "feedBackDes": "Si vous rencontrez des problèmes en utilisant cette application, n'hésitez pas à nous contacter. Si vous avez de bonnes suggestions ou idées, contactez-nous également. Nous examinerons vos suggestions avec soin et effectuerons les ajustements nécessaires.",
+    "connectUS": "Contactez-nous",
+    "connectUSDes": "Adresse email : legendtools@hotmail.com",
+    "copyRight": "© 2024 {name} Tous droits réservés",
+    "privacy": "Politique de confidentialité"
 }
-  
