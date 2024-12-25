@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Jeder Schritt zu mehr Gesundheit beginnt hier!",
+    "startRecord2": "Laden Sie {name} herunter, um professionelle Gesundheitsdatenaufzeichnung und Analyse-Dienste zu erleben.",
+    "download": "Jetzt herunterladen",
+    "image1Des": "Aufzeichnen verschiedener Gesundheitsdaten zu unterschiedlichen Tageszeiten.",
+    "image2Des": "Verwenden Sie die benutzerdefinierte Funktion, um Gesundheitsdatenindikatoren für dasselbe Datum in verschiedenen Jahren zu vergleichen.",
+    "image3Des": "Filtern Sie Daten basierend auf der Zeit oder anderen Optionen.",
+    "image4Des": "Statistik abnormaler Daten, um abnormale Gesundheitsdaten leichter einzusehen.",
+    "image5Des": "Benutzerdefinierte Erinnerungsbenachrichtigungen, damit Sie keine wichtigen gesundheitsbezogenen Angelegenheiten verpassen.",
     "welcome": "Willkommen bei {name}, wir sind hier, um Ihnen zu helfen!",
     "name": "GesundTrack",
     "question": "Häufige Fragen",

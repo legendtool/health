@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Elke stap naar gezondheid begint hier!",
+    "startRecord2": "Download {name} om professionele gezondheidsdata-opname en analysetdiensten te ervaren.",
+    "download": "Nu downloaden",
+    "image1Des": "Registreer verschillende gezondheidsgegevens op verschillende tijden van de dag.",
+    "image2Des": "Gebruik de aangepaste functie om gezondheidsdata-indicatoren voor dezelfde datum in verschillende jaren te vergelijken.",
+    "image3Des": "Filter gegevens op tijd of andere opties.",
+    "image4Des": "Statistiek van abnormale gegevens, zodat je abnormale gezondheidsgegevens gemakkelijker kunt bekijken.",
+    "image5Des": "Aangepaste herinneringsmeldingen, zodat je geen belangrijke gezondheidsgerelateerde zaken mist.",
     "welcome": "Welkom bij {name}, wij staan klaar om u te helpen!",
     "name": "GezondTrack",
     "question": "Veelgestelde vragen",

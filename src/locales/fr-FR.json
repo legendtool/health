@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Chaque étape vers la santé commence ici !",
+    "startRecord2": "Téléchargez {name} pour découvrir les services professionnels d'enregistrement et d'analyse des données de santé.",
+    "download": "Télécharger maintenant",
+    "image1Des": "Enregistrez différentes données de santé à différents moments de la journée.",
+    "image2Des": "Utilisez la fonction personnalisée pour comparer les indicateurs de données de santé pour la même date sur plusieurs années.",
+    "image3Des": "Filtrez les données selon le temps ou d'autres options.",
+    "image4Des": "Statistiques des données anormales, facilitant la consultation des données de santé anormales.",
+    "image5Des": "Notifications de rappels personnalisées pour ne jamais manquer d'importantes affaires de santé.",
     "welcome": "Bienvenue sur {name}, nous sommes là pour vous aider !",
     "name": "SantéSuivi",
     "question": "Questions fréquentes",

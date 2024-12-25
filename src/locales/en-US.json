@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Every step towards health begins here!",
+    "startRecord2": "Download {name} to experience professional health data recording and analysis services.",
+    "download": "Download Now",
+    "image1Des": "Record various health data at different times of the day.",
+    "image2Des": "Use the custom feature to compare health data indicators for the same date in different years.",
+    "image3Des": "Filter data based on time or other options.",
+    "image4Des": "Abnormal data statistics, making it easier to check abnormal health data.",
+    "image5Des": "Custom reminder notifications, ensuring you never miss any important health-related matters.",
     "welcome": "Welcome to {name}, we are here to assist you!",
     "name": "VitalStats",
     "question": "FAQs",

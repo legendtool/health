@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Varje steg mot hälsa börjar här!",
+    "startRecord2": "Ladda ner {name} för att uppleva professionella tjänster för hälsodataregistrering och analys.",
+    "download": "Ladda ner nu",
+    "image1Des": "Registrera olika hälsodata vid olika tider på dagen.",
+    "image2Des": "Använd den anpassade funktionen för att jämföra hälsodataindikatorer för samma datum under olika år.",
+    "image3Des": "Filtrera data baserat på tid eller andra alternativ.",
+    "image4Des": "Statistik för onormala data, vilket gör det lättare att kontrollera onormala hälsodata.",
+    "image5Des": "Anpassade påminnelsemeddelanden så att du aldrig missar viktiga hälsofrågor.",
     "welcome": "Välkommen till {name}, vi är här för att hjälpa dig!",
     "name": "HälsaTrack",
     "question": "Vanliga frågor",

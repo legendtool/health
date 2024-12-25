@@ -1,4 +1,12 @@
 {
+    "startRecord1": "¡Cada paso hacia la salud comienza aquí!",
+    "startRecord2": "Descarga {name} para experimentar los servicios profesionales de grabación y análisis de datos de salud.",
+    "download": "Descargar ahora",
+    "image1Des": "Registra varios datos de salud en diferentes momentos del día.",
+    "image2Des": "Usa la función personalizada para comparar indicadores de datos de salud en la misma fecha de diferentes años.",
+    "image3Des": "Filtra los datos según el tiempo u otras opciones.",
+    "image4Des": "Estadísticas de datos anormales, facilitando la revisión de datos de salud anormales.",
+    "image5Des": "Notificaciones de recordatorio personalizadas para que nunca pierdas ningún asunto importante relacionado con la salud.",
     "welcome": "¡Bienvenido a {name}, estamos aquí para ayudarte!",
     "name": "SaludTrack",
     "question": "Preguntas frecuentes",

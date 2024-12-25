@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Ogni passo verso la salute inizia qui!",
+    "startRecord2": "Scarica {name} per sperimentare i servizi professionali di registrazione e analisi dei dati sanitari.",
+    "download": "Scarica ora",
+    "image1Des": "Registra vari dati sanitari in momenti diversi della giornata.",
+    "image2Des": "Usa la funzione personalizzata per confrontare gli indicatori dei dati sanitari per la stessa data in anni diversi.",
+    "image3Des": "Filtra i dati in base al tempo o ad altre opzioni.",
+    "image4Des": "Statistiche sui dati anomali, per visualizzare facilmente i dati sanitari anomali.",
+    "image5Des": "Notifiche di promemoria personalizzate per non perdere mai questioni sanitarie importanti.",
     "welcome": "Benvenuto in {name}, siamo qui per aiutarti!",
     "name": "SaluteTrack",
     "question": "Domande frequenti",

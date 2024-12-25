@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Sağlık için her adım burada başlar!",
+    "startRecord2": "{name} indirerek profesyonel sağlık verisi kaydı ve analiz hizmetlerini deneyimleyin.",
+    "download": "Hemen indir",
+    "image1Des": "Farklı zaman dilimlerinde çeşitli sağlık verileri kaydedin.",
+    "image2Des": "Özel özellik kullanarak aynı tarihteki sağlık verisi göstergelerini farklı yıllarda karşılaştırın.",
+    "image3Des": "Verileri zaman veya diğer seçeneklere göre filtreleyin.",
+    "image4Des": "Anormal veri istatistikleri, anormal sağlık verilerini kolayca incelemenizi sağlar.",
+    "image5Des": "Özel hatırlatma bildirimleri, sağlıkla ilgili önemli herhangi bir konuyu kaçırmamanızı sağlar.",
     "welcome": "{name}'e hoş geldiniz, size yardımcı olmak için buradayız!",
     "name": "Sağlık Yoldaşı",
     "question": "Sıkça Sorulan Sorular",

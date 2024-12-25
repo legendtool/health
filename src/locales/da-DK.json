@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Hver skridt mod sundhed starter her!",
+    "startRecord2": "Download {name} for at opleve professionelle sundhedsdataoptagelse og analysetjenester.",
+    "download": "Download nu",
+    "image1Des": "Optag forskellige sundhedsdata på forskellige tidspunkter af dagen.",
+    "image2Des": "Brug den tilpassede funktion til at sammenligne sundhedsdataindikatorer for samme dato i forskellige år.",
+    "image3Des": "Filtrer data baseret på tid eller andre muligheder.",
+    "image4Des": "Statistik over unormale data, hvilket gør det lettere at kontrollere unormale sundhedsdata.",
+    "image5Des": "Tilpassede påmindelsesnotifikationer, så du aldrig går glip af vigtige sundhedsrelaterede anliggender.",
     "welcome": "Velkommen til {name}, vi er her for at hjælpe dig!",
     "name": "SundTrack",
     "question": "Ofte stillede spørgsmål",

@@ -1,4 +1,12 @@
 {
+    "startRecord1": "Mỗi bước tiến tới sức khỏe bắt đầu từ đây!",
+    "startRecord2": "Tải {name} để trải nghiệm dịch vụ ghi chép và phân tích dữ liệu sức khỏe chuyên nghiệp.",
+    "download": "Tải ngay",
+    "image1Des": "Ghi lại các dữ liệu sức khỏe khác nhau vào các thời điểm khác nhau trong ngày.",
+    "image2Des": "Sử dụng tính năng tùy chỉnh để so sánh các chỉ số dữ liệu sức khỏe cho cùng một ngày trong các năm khác nhau.",
+    "image3Des": "Lọc dữ liệu theo thời gian hoặc các tùy chọn khác.",
+    "image4Des": "Thống kê dữ liệu bất thường, giúp dễ dàng kiểm tra dữ liệu sức khỏe bất thường.",
+    "image5Des": "Thông báo nhắc nhở tùy chỉnh để bạn không bỏ lỡ bất kỳ vấn đề quan trọng nào liên quan đến sức khỏe.",
     "welcome": "Chào mừng đến với {name}, chúng tôi ở đây để hỗ trợ bạn!",
     "name": "Bạn khỏe",
     "question": "Câu hỏi thường gặp",
