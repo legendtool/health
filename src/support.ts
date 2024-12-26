@@ -1,8 +1,8 @@
 import { createApp } from 'vue'
 import './style.css'
-import i18n from './i18n'
+import i18nSupport from './i18nSupport'
 import Support from './Support.vue'
 
 const app = createApp(Support)
-app.use(i18n)
+app.use(i18nSupport)
 app.mount('#app')
